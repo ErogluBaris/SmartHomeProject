@@ -1,14 +1,15 @@
-# SmartHomeProject
+# ECLIPSE - SmartHomeProject
 
 Thanks for your interests in this Eclipse-Smart Home Energy Management Project
 
+There are informations about the content and the running process of the project below.
 
-//TO RUN THE PROJECT
+TO RUN THE PROJECT
 
-The excel file's path has to be : C:\PowerTable.xlsx
+The PowerTable.xlsx excel file's path has to be : C:\PowerTable.xlsx
 This is a maven project so maven has to be installed in your PC
 
-//CONTENT
+CONTENT
 
 This is an smart home energy management project.
 There is an excel file which contains a summer and a winter day loading table of a home.
